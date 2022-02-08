@@ -1,3 +1,5 @@
+![Cover](https://github.com/LaurentHP-Martin/LaurentHP-Martin/blob/master/img/cover.jpg)
+
 ### Hi there 👋
 
 <!--
