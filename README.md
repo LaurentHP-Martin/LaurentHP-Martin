@@ -1,4 +1,4 @@
-![Cover](https://github.com/LaurentHP-Martin/LaurentHP-Martin/blob/master/img/IMG_6134.jpg)
+![Cover](https://github.com/LaurentHP-Martin/LaurentHP-Martin/tree/main/img/IMG_6134.jpg)
 
 ### Hi there 👋
 
