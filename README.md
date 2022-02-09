@@ -15,6 +15,9 @@ As a former managing partner and now freelance engineer, I also have a definite 
 ## NEWS
 
 - 🔭 I’m currently working on a  project analysis of crowdfunding platform and a sport betting forecast app !
+
+
+![](https://komarev.com/ghpvc/?username=LaurentHP-Martin)
 <!--
 **LaurentHP-Martin/LaurentHP-Martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
