@@ -18,6 +18,8 @@ As a former managing partner and now freelance engineer, I also have a definite 
 
 
 ![](https://komarev.com/ghpvc/?username=LaurentHP-Martin)
+
+![](https://github.com/LaurentHP-Martin/github-stats/blob/master/generated/overview.svg)
 <!--
 **LaurentHP-Martin/LaurentHP-Martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
