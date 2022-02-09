@@ -15,7 +15,7 @@ As a former managing partner and now freelance engineer, I also have a definite 
 
 ## NEWS
 
-- 🔭 I’m currently working on a  project analysis of crowdfunding platform and a sport betting forecast app !
+- 🔭 I’m currently working on a  project analysis of crowdfunding platform. 
 
 
 ![](https://komarev.com/ghpvc/?username=LaurentHP-Martin)
