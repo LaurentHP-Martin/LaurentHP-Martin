@@ -9,8 +9,8 @@ As a former managing partner and now freelance engineer, I also have a definite 
 
 ## TECH STACK
 
-- PYTHON / Numpy - Pandas - Scikit Learn - Keras - Tensorflow - PySpark - Matplotlib - Seaborn 
-- Streamlit 
+- PYTHON / Numpy - Pandas - Scikit Learn - Keras - Tensorflow - PySpark - Matplotlib - Seaborn - NetworkX - XGBoost
+- Streamlit - Webscrapping
 - SQL Alchemy
 
 ## NEWS
