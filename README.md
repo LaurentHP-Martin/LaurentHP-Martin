@@ -13,9 +13,7 @@ As a former managing partner and now freelance engineer, I also have a definite 
 - Streamlit - Webscrapping
 - SQL Alchemy
 
-## NEWS
-
-- 🔭 I’m currently working on an analysis of crowdfunding platform and a project about sport betting.    
+   
 
 
 ![](https://komarev.com/ghpvc/?username=LaurentHP-Martin)
